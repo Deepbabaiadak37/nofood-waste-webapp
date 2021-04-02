@@ -1,0 +1,10 @@
+.myclass:hover
+{
+	color: white;
+	background: linear-gradient(to right, #bc4e9c, #f80759);
+}
+.nav-link1:hover
+{
+	background: linear-gradient(to right, #bc4e9c, #f80759);
+
+}
